@@ -144,7 +144,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .content-section__introduction {
     font-family: Inter, sans-serif;
-    font-family: 'Inter';
     font-style: normal;
     font-size: 20px;
     line-height: 27px;
@@ -166,11 +165,9 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     font-weight: 700;
 }
 
-.how-to {
-    color: #F5F5F5
-}
 
-.card-list{
+
+.card-list {
     list-style-type: none;
     display: flex;
     flex-direction: column;
